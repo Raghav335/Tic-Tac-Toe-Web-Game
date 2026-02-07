@@ -12,7 +12,7 @@ Try the game live: [Click Here](https://tic-tac-toe-web-game-beige.vercel.app/)
 
 - 2 Player mode
 - Highlight winning combinations
-- Game reset button
+- Game restart button
 - Responsive design (playable on mobile and desktop)
 - Simple and clean UI
 
