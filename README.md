@@ -3,7 +3,7 @@ A responsive Tic Tac Toe web game developed with HTML, CSS, and JavaScript. Incl
 
 ## 📸 Demo
 
-![Game Screenshot](https://github.com/Raghav335/Tic-Tac-Toe-Web-Game/blob/main/Screenshot.png.jpeg & https://github.com/Raghav335/Tic-Tac-Toe-Web-Game/blob/main/winner%20Screenshot.png.jpeg) <!-- Replace with your screenshot file path -->
+![Game Screenshot](https://github.com/Raghav335/Tic-Tac-Toe-Web-Game/blob/main/Screenshot.png.jpeg ) <!-- Replace with your screenshot file path -->
 
 Try the game live: [Click Here](https://tic-tac-toe-web-game-beige.vercel.app/)
 
