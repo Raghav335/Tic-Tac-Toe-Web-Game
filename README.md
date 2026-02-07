@@ -29,7 +29,7 @@ tic-tac-toe/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Game styling
-├── script.js        # Game logic
+├── first.js        # Game logic
 ├── README.md        # Project documentation
 └── screenshot.png   # Optional screenshot of game
 
